@@ -1,2 +1,2 @@
 # Canteen-Automation-System
-A website uing asp.net,sql server management studio.
+A website using asp.net,sql server management studio.
